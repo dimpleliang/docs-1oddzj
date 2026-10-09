@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-bue6kp.newsyourday.com/sitemap.xml
